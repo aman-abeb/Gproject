@@ -24,13 +24,14 @@ export const MenuData =[
         icon: "",
     },
     {
-        title: "log in",
-        url: "#",
+        title: "Log in",
+        url: "login",
         cName: "nav-links-mobile",
     },
     {
-        title: "sign up",
-        url: "#",
+        title: "Sign up",
+        url: "register",
         cName: "nav-links-mobile",
     },
+    
 ]
